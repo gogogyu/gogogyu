@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @gogogyu
 - 👀 I’m interested in kubernetest & CI/CD
 - 🌱 I’m currently learning kubernetes
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Linkedin profile
 
 <!---
 gogogyu/gogogyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
