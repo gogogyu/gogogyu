@@ -1,6 +1,5 @@
-![image](https://github.com/gogogyu/gogogyu/assets/138762330/940c8ba6-f31c-4155-8a35-b384b01797c6)
 - 👋 Hi, I’m @gogogyu
-- 👀 I’m interested in kubernetest & CI/CD
+- 👀 I’m interested in kubernetes
 - 🌱 I’m currently learning kubernetes
 - 📫 How to reach me Linkedin profile
 
